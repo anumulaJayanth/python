@@ -213,6 +213,7 @@ Pyro5==5.15
 PyScreeze==0.1.30
 PySocks==1.7.1
 pyspnego==0.11.0
+python_version >=3.7, <3.11
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-pptx==0.6.23
@@ -222,8 +223,7 @@ pytwin==0.7.0
 pytz==2023.3
 pyvista==0.43.4
 pyviz_comms==3.0.2
-pywin32==306; platform_system == "Windows"
-pypiwin32==223; platform_system == "Windows"
+pywin32>=300
 pywin32-ctypes==0.2.2
 pywinrm==0.4.3
 PyYAML==6.0.1
