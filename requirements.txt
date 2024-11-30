@@ -106,3 +106,4 @@ filelock==3.13.1
 flake8==3.9.2
 Flask==3.0.0
 Flask-Cors==4.0.0
+gunicorn
